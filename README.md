@@ -6,10 +6,13 @@
 
 https://github.com/w3cmark/blog/issues
 
-## 归档
+## 文章列表
 
-+ [使用chrome extension解决gitlab在线编辑时输入中文出现错乱的问题](https://github.com/w3cmark/blog/issues/1)
++ [Laraval-nova入门安装](https://github.com/w3cmark/blog/issues/4)
+
++ [小程序开发遇到的坑](https://github.com/w3cmark/blog/issues/3)
 
 + [让loading效果更线性](https://github.com/w3cmark/blog/issues/2)
 
-+ [小程序开发遇到的坑](https://github.com/w3cmark/blog/issues/3)
++ [使用chrome extension解决gitlab在线编辑时输入中文出现错乱的问题](https://github.com/w3cmark/blog/issues/1)
+
