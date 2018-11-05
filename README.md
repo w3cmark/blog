@@ -8,6 +8,8 @@ https://github.com/w3cmark/blog/issues
 
 ## 文章列表
 
++ [Virmach 2018各个机房测试IP 在国内移动网络下的PING值](https://github.com/w3cmark/blog/issues/6)
+
 + [前端开源项目目录结构图](https://github.com/w3cmark/blog/issues/5)
 
 + [Laraval-nova入门安装](https://github.com/w3cmark/blog/issues/4)
