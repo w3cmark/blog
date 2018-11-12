@@ -8,6 +8,8 @@ https://github.com/w3cmark/blog/issues
 
 ## 文章列表
 
++ [常用工具集备忘](https://github.com/w3cmark/blog/issues/8)
+
 + [webp图片降级方案有哪些](https://github.com/w3cmark/blog/issues/7)
 
 + [Virmach 2018各个机房测试IP 在国内移动网络下的PING值](https://github.com/w3cmark/blog/issues/6)
