@@ -1,6 +1,6 @@
 # Blog
 
-我在前端方面的学习、思考、探索？扯淡~
+我在开发方面的学习、思考、探索？扯淡~
 
 ## 地址
 
@@ -8,7 +8,7 @@ https://github.com/w3cmark/blog/issues
 
 ## 文章列表
 
-+ [Vue开发积累](https://github.com/w3cmark/blog/issues/9)
++ [Vue开发遇到的问题积累](https://github.com/w3cmark/blog/issues/9)
 
 + [常用工具集备忘](https://github.com/w3cmark/blog/issues/8)
 
