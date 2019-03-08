@@ -8,6 +8,8 @@ https://github.com/w3cmark/blog/issues
 
 ## 文章列表
 
++ [Vue开发积累](https://github.com/w3cmark/blog/issues/9)
+
 + [常用工具集备忘](https://github.com/w3cmark/blog/issues/8)
 
 + [webp图片降级方案有哪些](https://github.com/w3cmark/blog/issues/7)
