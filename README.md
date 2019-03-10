@@ -8,6 +8,8 @@ https://github.com/w3cmark/blog/issues
 
 ## 文章列表
 
++ [Python入门积累](https://github.com/w3cmark/blog/issues/10)
+
 + [Vue开发遇到的问题积累](https://github.com/w3cmark/blog/issues/9)
 
 + [常用工具集备忘](https://github.com/w3cmark/blog/issues/8)
