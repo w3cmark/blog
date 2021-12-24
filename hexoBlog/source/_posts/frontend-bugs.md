@@ -47,3 +47,22 @@ Access-Control-Allow-Origin : http://w3cmark.com
 
 **解决方案，服务端不需要对OPTIONS请求做cookie校验的操作**
 
+## npm install 时提示sha512错误
+
+```sh
+npm ERR! code EINTEGRITY
+npm ERR! sha512-MKiLiV+I1AA596t9w1sQJ8jkiSr5+ZKi0WKrYGUn6d1Fx+Ij4tIj+m2WMQSGczs5jZVxV339chE8iwk6F64wjA== integrity checksum failed when using sha512: wanted sha512-MKiLiV+I1AA596t9w1sQJ8jkiSr5+ZKi0WKrYGUn6d1Fx+Ij4tIj+m2WMQSGczs5jZVxV339chE8iwk6F64wjA== but got sha512-WXI95kpJrxw4Nnx8vVI90PuUhrQjnNgghBl5tn54rUNKZYbxv+4ACxUzPVpJEtWxKmeDwnQrzjc0C2bYmRJVKg==. (65117 bytes)
+
+npm ERR! A complete log of this run can be found in:
+```
+这是一个很奇怪的问题，同一个版本的包，不同人安装偶然会出现，出现问题后，删除`package-lock.json`再重新安装也无法解决（有时候一开始就报错，都没有生成`package-lock.json`文件）。
+
+尝试 `npm cache clean --force` 清除npm缓存，这是网上搜索出来的方案，但试过无效。
+
+**解决方案：**
+
+```sh
+# 关闭npm的https
+npm config set Strict-ssl false
+```
+然后再重新安装就正常了
